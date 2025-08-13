@@ -1,0 +1,20 @@
+# Requisitos do Simple Detect System
+
+# IA e OpenAI
+openai>=1.30.0
+
+# Captura de tela e processamento de imagem
+mss>=9.0.1
+opencv-python>=4.8.0.74
+pillow>=10.0.0
+numpy>=1.24.0
+
+# OCR (Optical Character Recognition)
+pytesseract>=0.3.10
+
+# Controle de mouse e teclado
+pyautogui>=0.9.54
+pynput>=1.7.6
+
+# Utilities
+python-dotenv>=1.0.0
